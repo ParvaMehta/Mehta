@@ -1,0 +1,90 @@
+# **freeCodeCamp's core curriculum Summary on Time Understanding** ➖
+
+---
+
+4_may_2024 Draft Created using GPT 4
+
+https://s.gravatar.com/avatar/4752c79f213fdcc30ff3116ee6f1d515?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png
+
+### **Summary**
+
+You utilized the Pomodoro Technique, focusing on 25-minute learning intervals with breaks, to complete freeCodeCamp certifications within approximately three months (from November 8th, 2018 to February 12th, 2019). Your total active learning time was about 141 hours. The breakdown for each certification is as follows:
+
+1. **Responsive Web Design Certification**: 20 hours and 25 minutes
+2. **JavaScript Algorithms and Data Structures Certification**: 28 hours and 37 minutes
+3. **Front End Libraries Certification**: 31 hours and 15 minutes
+4. **Data Visualization Certification**: 14 hours and 10 minutes
+5. **APIs and Microservices Certification**: 15 hours and 14 minutes
+6. **Information Security and Quality Assurance Certification**: 32 hours and 5 minutes
+
+Your pace aimed at completing two sections daily, with projects generally requiring more time compared to lessons. You noted that lessons took about 2 hours each to complete on average.
+
+### **3-Month Study Plan**
+
+**Goal**: Complete the freeCodeCamp certifications using a structured approach, employing the Pomodoro Technique for time management. Aim for 141 hours of active learning.
+
+**Weekly Breakdown**:
+
+- **Week 1-4**: Responsive Web Design Certification (~20 hours)
+- **Week 5-8**: JavaScript Algorithms and Data Structures Certification (~28 hours)
+- **Week 9-11**: Front End Libraries Certification (~31 hours)
+- **Week 12**: Data Visualization Certification (~14 hours)
+
+**Week 13**:
+
+- Begin APIs and Microservices Certification (~7.5 hours, half the total hours)
+
+**Week 14-15**:
+
+- Finish APIs and Microservices Certification (~7.5 hours)
+- Start Information Security and Quality Assurance Certification (~16 hours, half the total hours)
+
+**Week 16-17**:
+
+- Finish Information Security and Quality Assurance Certification (~16 hours)
+
+Active Time table :—
+
+| Time Slot | Focus Mode Activity | Diffuse Mode Activity |
+| --- | --- | --- |
+| 8:00 - 9:30 AM | Morning Session: 2 Pomodoros (50 minutes of active learning) | 🧘‍♀️ Meditation: 10 minutes |
+| 9:30 - 10:00 AM | ☕ Break: 30 minutes | 🎵 Listen to Music: 30 minutes |
+| 10:00 - 11:30 AM | Late Morning Session: 2 Pomodoros (50 minutes of active learning) | 📚 Reading: 30 minutes |
+| 11:30 - 12:30 PM | 🍴 Lunch Break: 1 hour | 🎵 Listen to Music: 30 minutes |
+| 12:30 - 2:00 PM | Afternoon Session: 2 Pomodoros (50 minutes of active learning) | 🤸‍♂️ Light Body Stretching: 15 minutes |
+| 2:00 - 2:30 PM | 🏝️ Break: 30 minutes | 🧘‍♀️ Meditation: 15 minutes |
+| 2:30 - 4:00 PM | Late Afternoon Session: 2 Pomodoros (50 minutes of active learning) | 📚 Reading: 30 minutes |
+
+**Note**: Aim to complete sections of theory during the week and reserve weekends or specific days for tackling project sections, which require more focused time. Adapt the daily plan based on personal pace and understanding, especially for complex topics.
+
+### **Key Tips:**
+
+- Consistently review the past day's learning at the start of each day to reinforce knowledge.
+- Adjust the study pace based on personal comfort and comprehension, especially for complex sections.
+- Regularly assess progress and make adjustments to the study plan if necessary.
+
+This structured approach should guide you through completing the freeCodeCamp certifications effectively within three months, maintaining a balance between consistent learning and adequate rest.
+
+---
+
+# Q&A on Responsive web Design
+
+### **Q&A**
+
+**Q: HTML ID meaning?**
+
+**A: A unique identifier for manipulating a specific HTML element, declared using the 'id' attribute.**
+
+**Q: HTML element meaning?**
+
+**A: Individual components of an HTML document like `<p>`, `<div>`, `<a>`, forming the web page's building blocks.**
+
+**Q: HTML attribute meaning?**
+
+**A: Provides extra information about an HTML element, specified in the start tag in name/value pairs like name="value".**
+
+**Q: Radio button in HTML meaning?**
+
+**A: An input element allowing the selection of one option from a set of mutually exclusive options.**
+
+**Note: These concepts are applied in the FreeCodeCamp's Cat App Project for hands-on experience.**
